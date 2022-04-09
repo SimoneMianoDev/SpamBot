@@ -8,7 +8,9 @@ To work you need to download PyAutoGUI.
 1. Go to: https://pyautogui.readthedocs.io/en/latest/install.html
 
 2. Copy the correct line:
-  1. Windows: py -m pip install pyautogui
-  2. macOS: python3 -m pip install pyautogui
+
+  Windows: py -m pip install pyautogui
+
+  macOS: python3 -m pip install pyautogui
   
 3. Paste it on the terminal, press enter and wait for it to finish
